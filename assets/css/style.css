@@ -30,6 +30,14 @@ a{color:var(--navy); text-decoration:none;}
   position:relative;
 }
 
+.hero-img{
+  width:100%;
+  display:block;
+  border-radius:8px;
+  margin-bottom:20px;
+  box-shadow:0 4px 18px rgba(26,46,90,0.12);
+}
+
 .brand{
   text-align:center;
   text-transform:uppercase;
